@@ -33,3 +33,10 @@ goldenButton.addEventListener('click', makeGoldenRod);
 function makeGoldenRod() {
     document.body.style.backgroundColor = 'goldenrod';
 }
+
+// ---------stype-4----------
+
+
+document.getElementById('blue').addEventListener('click', function () {
+    document.body.style.backgroundColor = 'blue';
+})

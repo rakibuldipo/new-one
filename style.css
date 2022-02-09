@@ -9,7 +9,7 @@ button{
     margin: 20px;
     width: 100px;
     height: 35px;
-    border-radius: 100px;
+    border-radius: 95px;
 }
 
 /* button{
@@ -17,6 +17,6 @@ button{
 } */
 
 
-body {
+/* body {
     background-color: rgb(175, 175, 253);
-  }
+  } */

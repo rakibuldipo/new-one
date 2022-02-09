@@ -24,3 +24,12 @@ const whiteButton = document.getElementById('make-white-button');
 whiteButton.onclick = function makeGreen() {
     document.body.style.backgroundColor = 'white';
 }
+
+// ---------stype-4----------
+const goldenButton = document.getElementById('make-goldenrod');
+
+goldenButton.addEventListener('click', makeGoldenRod);
+
+function makeGoldenRod() {
+    document.body.style.backgroundColor = 'goldenrod';
+}

@@ -1,11 +1,22 @@
-/* button:hover{
+button:hover{
   
     background-color: rgb(245, 141, 141);
 
 }
+
 button{
     font-size: 20px;
     margin: 20px;
     width: 100px;
-    height: 50px;
+    height: 35px;
+    border-radius: 100px;
+}
+
+/* button{
+    color: white;
 } */
+
+
+body {
+    background-color: rgb(175, 175, 253);
+  }

@@ -19,3 +19,8 @@ const greenButton = document.getElementById('make-green-button');
 greenButton.onclick = function makeGreen() {
     document.body.style.backgroundColor = 'green';
 }
+
+const whiteButton = document.getElementById('make-white-button');
+whiteButton.onclick = function makeGreen() {
+    document.body.style.backgroundColor = 'white';
+}
